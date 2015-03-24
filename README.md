@@ -1,2 +1,2 @@
 # Pruebas
- enclase de Desarrollo 2D
+En clase de Desarrollo 2D
