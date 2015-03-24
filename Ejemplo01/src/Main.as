@@ -20,6 +20,7 @@ package
 		{
 			removeEventListener(Event.ADDED_TO_STAGE, init);
 			trace ("Hola");
+			trace("hOLAA");
 		}
 		
 	}
